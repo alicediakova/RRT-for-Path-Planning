@@ -1,0 +1,14 @@
+name: comsw4733_hw3
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy=1.19
+  - pybullet=3.21
+  - py-opencv=4.5.5
+  - scipy=1.7.3
+  - tqdm=4.63
+  - transforms3d=0.3.1
+  - trimesh=3.10.2
+  - numba=0.53.1
+  - ply=3.11
